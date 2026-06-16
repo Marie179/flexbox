@@ -1,0 +1,23 @@
+#cartões{
+ display:flex;
+
+}
+.grupo{
+    width:150px;
+    height:150px;
+}
+#cartão1{
+    background-color: red;
+}
+#cartão2{
+    background-color: yellow;
+}
+#cartão3{
+    background-color: green;
+}
+#cartão4{
+    background-color: blue;
+}
+#cartão5{
+    background-color: orange;
+}
